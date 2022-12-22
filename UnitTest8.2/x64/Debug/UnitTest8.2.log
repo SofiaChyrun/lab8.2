@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest8.2.cpp
+C:\Student\ChyrunSofia8.2\UnitTest8.2\UnitTest8.2.cpp(17,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Student\ChyrunSofia8.2\x64\Debug\UnitTest8.2.lib and object C:\Student\ChyrunSofia8.2\x64\Debug\UnitTest8.2.exp
+  UnitTest8.2.vcxproj -> C:\Student\ChyrunSofia8.2\x64\Debug\UnitTest8.2.dll
